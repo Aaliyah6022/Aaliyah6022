@@ -1,7 +1,9 @@
 <div align="center">
   <h1> Aaliyah6022 aka LunaLynx </h1>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-
+  <img src="http://img.shields.io/badge/Profile%20Views-1448-blue" alt=""/>
+  <img src="http://img.shields.io/badge/Code%20Time-1%2C445%20hrs%2016%20mins-blue" alt=""/>
+  <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue" alt=""/>
+  
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aaliyah6022&theme=highcontrast&hide_border=false&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
