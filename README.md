@@ -12,7 +12,7 @@
 
 ### 🔗: Most used software :
   
-  <h2>Visual Studio: [https://visualstudio.microsoft.com/]
+  <h2>(Visual Studio:)[https://visualstudio.microsoft.com/]
   Metasm: https://github.com/jjyg/metasm/
   Radare: http://radare.org/
   Capstone: http://www.capstone-engine.org/
