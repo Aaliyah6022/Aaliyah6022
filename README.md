@@ -8,9 +8,18 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaliyah6022&langs_count=5&theme=highcontrast)](https://github.com/Aaliyah6022/github-readme-stats)
 
+### 🔗: Most used software :
+  
+  Visual Studio: https://visualstudio.microsoft.com/
+  Metasm: https://github.com/jjyg/metasm/
+  Radare: http://radare.org/
+  Capstone: http://www.capstone-engine.org/
+  IDA: https://hex-rays.com/ida-pro/
+  Hopper: http://www.hopperapp.com/
+  Medusa: https://github.com/wisk/medusa
+  x64dbg: http://x64dbg.com/
+
 ### :hammer_and_wrench: Languages and Tools :
-
-
   <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="Cmake" alt="Cmake" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Cs" alt="Cs" width="50" height="50"/>&nbsp;
