@@ -8,7 +8,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aaliyah6022&theme=highcontrast&hide_border=false&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaliyah6022&langs_count=5&theme=highcontrast)](https://github.com/Aaliyah6022/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaliyah6022&hide=contribs,prs)
 
 
 
